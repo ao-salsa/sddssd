@@ -4,7 +4,7 @@ const { createProxyMiddleware } = require('http-proxy-middleware');
 const app = express();
 
 
-const target = 'https://new.myfreemp3juices.cc/';
+const target = 'https://ytmp3.nu';
 
 // Create the proxy middleware
 const mathProxy = createProxyMiddleware({
